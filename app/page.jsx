@@ -11,6 +11,11 @@ const demos = [
     name: "Transteck Backend Security",
     description: "Mockup backend premium pour centre de commande sécurité.",
   },
+  {
+    slug: "backend-satelitguard",
+    name: "Satellite Guard Backend",
+    description: "Mockup backend GPS pour monitoring flotte et alertes en temps réel.",
+  },
 ];
 
 export default function Home() {
