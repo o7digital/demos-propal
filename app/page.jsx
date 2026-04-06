@@ -6,6 +6,11 @@ const demos = [
     name: "Proyecto Civil Integral",
     description: "Mockup de rediseño para empresa de ingeniería civil mexicana.",
   },
+  {
+    slug: "backend-transtek",
+    name: "Transteck Backend Security",
+    description: "Mockup backend premium pour centre de commande sécurité.",
+  },
 ];
 
 export default function Home() {
