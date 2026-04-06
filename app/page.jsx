@@ -12,7 +12,7 @@ const demos = [
     description: "Mockup backend premium pour centre de commande sécurité.",
   },
   {
-    slug: "backend-satelitguard",
+    slug: "backend-satellite-guard",
     name: "Satellite Guard Backend",
     description: "Mockup backend GPS pour monitoring flotte et alertes en temps réel.",
   },
